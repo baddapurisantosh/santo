@@ -1,2 +1,2 @@
-@Library("Jenkins-SharedLibrary") _
-raamJenkinsFile()
+@Library("sharedlibrary") _
+shellbuild()
