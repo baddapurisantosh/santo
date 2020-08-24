@@ -1,2 +1,2 @@
 @Library("sharedlibrary") _
-shellbuild()
+withoutdocker()
