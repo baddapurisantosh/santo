@@ -1,4 +1,3 @@
-# santo
-aam ndb ash
-ggggggggggggggggggggggggggg
-adding changes 
+# maven-project
+
+Simple Maven Project
